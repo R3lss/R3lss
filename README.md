@@ -9,6 +9,8 @@
   <img align="center" alt="Erik-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Erik-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Erik-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Erik-Java" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Erik-Java" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
   <img align="right" src="https://hermes.dio.me/tracks/02ee8de6-37e2-4be7-872d-0d7d94910cae.png" height="50" width="70">
   <img align="right" src="https://assets.dio.me/9_6ebA0LkSX4vE7gkPhzrgvZ87TUsJIHG_IH1BHEr9g/f:webp/h:120/q:80/L3RyYWNrcy9jOTBlNzk3OS1iODA3LTQ5NDEtODk1YS04ZDg1NTY0YjE0MmUucG5n" height="60" width="60">
   <img align="right" src="https://assets.dio.me/fRqQMq4qSfzcasq6yR4asCP-CjE5EcRD53Q5RqL3TfE/f:webp/h:120/q:80/L3RyYWNrcy9jMmMwMGNhZi05MDUwLTQzYWItYmExMi0zYmMwNWZlYmZhZDIucG5n" height="60" width="60">
