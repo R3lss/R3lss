@@ -16,6 +16,10 @@
   <img align="right" src="https://assets.dio.me/9_6ebA0LkSX4vE7gkPhzrgvZ87TUsJIHG_IH1BHEr9g/f:webp/h:120/q:80/L3RyYWNrcy9jOTBlNzk3OS1iODA3LTQ5NDEtODk1YS04ZDg1NTY0YjE0MmUucG5n" height="60" width="60">
   <img align="right" src="https://assets.dio.me/fRqQMq4qSfzcasq6yR4asCP-CjE5EcRD53Q5RqL3TfE/f:webp/h:120/q:80/L3RyYWNrcy9jMmMwMGNhZi05MDUwLTQzYWItYmExMi0zYmMwNWZlYmZhZDIucG5n" height="60" width="60">
 </div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Erik-Js" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Erik-Js" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+</div>
   
   ##
  
